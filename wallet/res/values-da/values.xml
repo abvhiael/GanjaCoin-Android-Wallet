@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+
+	<string-array name="preferences_precision_labels">
+		<item>SOL, 8 decimaler</item>
+		<item>SOL, 6 decimaler</item>
+		<item>SOL, 4 decimaler</item>
+		<item>mSOL, 2 decimaler</item>
+		<item>µSOL, uden decimaler</item>
+	</string-array>
+
+</resources>
