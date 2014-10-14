@@ -6,8 +6,8 @@
 
 	<artifactId>wallet</artifactId>
 	<packaging>apk</packaging>
-	<version>0.2.0</version>
-	<name>digitalcoin Wallet</name>
+	<version>0.1.0</version>
+	<name>Solcoin Wallet</name>
 
 
 	<parent>
@@ -62,8 +62,8 @@
 		<dependency>
 			<groupId>com.google</groupId>
 
-			<artifactId>digitalcoinj</artifactId>
-			<version>0.12-SNAPSHOT</version>
+			<artifactId>solcoinj</artifactId>
+			<version>0.11-SNAPSHOT</version>
 
 		</dependency>
 

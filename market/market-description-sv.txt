@@ -1,19 +1,19 @@
-Detta är en fristående digitalcoin plånbok för Android. Du kan skicka digitalcoins mellan telefoner genom att scanna den QR kod som visas på skärmen. Eller använda NFC (Near Field Communication).
+Detta är en fristående Solcoin plånbok för Android. Du kan skicka Solcoins mellan telefoner genom att scanna den QR kod som visas på skärmen. Eller använda NFC (Near Field Communication).
 
 FUNKTIONER:
 
-• Visa plånbokens värde i digitalcoins och andra valutor.
-• Skicka och ta emot digitalcoins via NFC, QR-koder eller en digitalcoin URL.
-• Adressbok för de digitalcoin adresser man använder ofta.
+• Visa plånbokens värde i Solcoins och andra valutor.
+• Skicka och ta emot Solcoins via NFC, QR-koder eller en Solcoin URL.
+• Adressbok för de Solcoin adresser man använder ofta.
 • Påbörja transaktioner medan du är offline, de utförs när du kommer online.
-• Systemnotifikationer när digitalcoins skickats till dig, och när plånboken kommunicerar med nätverket.
+• Systemnotifikationer när Solcoins skickats till dig, och när plånboken kommunicerar med nätverket.
 • App widget som visar plånbokens värde.
 
-Du kan lära dig mer om digitalcoin genom att besöka
-http://digitalcoin.co
+Du kan lära dig mer om Solcoin genom att besöka
+http://Solcoin.co
 
-Om du vill hjälpa till med utvecklingen av digitalcoin Wallet så kan du hitta projektet här
-https://github.com/HashEngineering/digitalcoin-wallet
+Om du vill hjälpa till med utvecklingen av Solcoin Wallet så kan du hitta projektet här
+https://github.com/MystPhysX/Solcoin-wallet
 
 Licens: GPLv3
 Använd på egen risk!

@@ -48,7 +48,7 @@ import com.google.common.io.BaseEncoding;
 
 import de.schildbach.wallet.Constants;
 import de.schildbach.wallet.util.Io;
-import hashengineering.digitalcoin.wallet.R;
+import mystphysx.solcoin.wallet.R;
 
 /**
  * @author Andreas Schildbach

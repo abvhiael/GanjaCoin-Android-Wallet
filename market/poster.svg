@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1"
-	 id="svg2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="poster.svg" inkscape:version="0.48.3.1 r9886"
+	 id="svg2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:version="0.48.3.1 r9886" sodipodi:docname="poster.svg"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1052.363px"
 	 height="1488.189px" viewBox="0 0 1052.363 1488.189" enable-background="new 0 0 1052.363 1488.189" xml:space="preserve">
-<sodipodi:namedview  showgrid="false" inkscape:cy="722.73572" inkscape:cx="444.0042" inkscape:zoom="0.7" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" id="base" inkscape:window-maximized="0" inkscape:window-y="24" inkscape:window-x="66" inkscape:window-height="1387" inkscape:window-width="1247" inkscape:current-layer="layer1" inkscape:document-units="px" inkscape:pageshadow="2" inkscape:pageopacity="0.0">
+<sodipodi:namedview  id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:zoom="0.7" inkscape:cx="444.0042" inkscape:cy="722.73572" showgrid="false" inkscape:pageopacity="0.0" inkscape:window-height="1387" inkscape:pageshadow="2" inkscape:window-x="66" inkscape:document-units="px" inkscape:current-layer="layer1" inkscape:window-y="24" inkscape:window-width="1247" inkscape:window-maximized="0">
 	</sodipodi:namedview>
 <g id="layer1" transform="translate(0,435.82679)" inkscape:label="Layer 1" inkscape:groupmode="layer">
 	
-		<image overflow="visible" enable-background="new    " width="350" height="350" id="image3185" xlink:href="market-url-qr.png"  transform="matrix(1 0 0 1 -8061.0005 -8406.8262)">
+		<image overflow="visible" enable-background="new    " width="350" height="350" id="image3185" xlink:href="market-url-qr.png"  transform="matrix(1 0 0 1 -8061 -8406.8262)">
 	</image>
 	<text transform="matrix(1 0 0 1 45.8311 936.6478)" font-family="'ArialMT'" font-size="26">/*</text>
 	<text transform="matrix(1 0 0 1 45.8311 969.1478)" font-family="'ArialMT'" font-size="26"> * This program is free software: you can redistribute it and/or modify it</text>
@@ -18,31 +18,47 @@
 	<g id="flowRoot3188">
 	</g>
 	<text transform="matrix(0 -1 1 0 318.082 874.0687)" fill="#808080" font-family="'ArialMT'" font-size="27">Download from Google Play</text>
-	<text transform="matrix(1 0 0 1 52.7705 329.5052)" font-family="'ArialMT'" font-size="128">digitalcoin Wallet</text>
+	<text transform="matrix(1 0 0 1 120.7705 329.5052)" font-family="'ArialMT'" font-size="128">Solcoin Wallet</text>
 	<text transform="matrix(1 0 0 1 252.3027 450.976)" font-family="'ArialMT'" font-size="90">for Android     </text>
 	<text transform="matrix(1 0 0 1 74.9458 -360.4948)" font-family="'ArialMT'" font-size="48">Your own digital coins on your own phone!</text>
 	<text transform="matrix(1 0 0 1 74.9458 -300.4948)" font-family="'ArialMT'" font-size="48">No cloud server or web service necessary.</text>
 	
-		<image overflow="visible" enable-background="new    " width="219" height="119" id="image3071" xlink:href="99E9A080.png"  transform="matrix(0.5211 0 0 0.5211 726.2144 388.5775)">
+		<image overflow="visible" enable-background="new    " width="219" height="119" id="image3071" xlink:href="99E9A080.png"  transform="matrix(0.5211 0 0 0.5211 726.2148 388.5785)">
 	</image>
 	<ellipse fill="#FFFFFF" cx="527.17" cy="35.503" rx="90.658" ry="93.855"/>
 	<g>
-		<path d="M748.549-32.704c0,122.691-99.463,222.154-222.154,222.154c-122.681,0-222.145-99.463-222.145-222.154
-			c0-122.683,99.464-222.146,222.145-222.146C649.086-254.849,748.549-155.386,748.549-32.704L748.549-32.704z M570.554-211.546
-			c-23.981,0-44.337,16.778-50.005,39.091H395.332c-8.252,0-12.431,5.569-12.676,12.5V10.38c0,6.746,5.54,12.506,12.676,12.506
-			H521.21c5.61,22.392,25.964,39.094,50.014,39.094c28.347,0,51.592-23.245,51.592-51.6c0-28.349-23.245-51.769-51.592-51.769
-			c-23.99,0-44.345,16.787-50.014,39.091H407.832v-144.979h112.717c5.668,22.312,26.024,39.091,50.005,39.091
-			c28.355,0,51.601-23.416,51.601-51.77C622.155-188.3,598.91-211.546,570.554-211.546L570.554-211.546z M570.554-185.837
-			c14.491,0,25.89,11.389,25.89,25.881s-11.398,26.068-25.89,26.068c-14.49,0-25.88-11.576-25.88-26.068
-			S556.064-185.837,570.554-185.837L570.554-185.837z M482.415-126.71c-28.346,0-51.77,23.245-51.77,51.593
-			c0,28.345,23.424,51.591,51.77,51.591c24.024,0,44.202-16.56,49.836-38.915h112.718v144.31H532.25
-			c-5.634-22.355-25.812-39.094-49.836-39.094c-28.346,0-51.77,23.247-51.77,51.602c0,28.347,23.424,51.77,51.77,51.77
-			c24.024,0,44.202-16.737,49.836-39.094h125.395c7.382-0.373,12.5-4.921,12.5-12.675V-75.117c0-7.738-4.882-12.5-12.5-12.5H532.25
-			C526.617-109.973,506.439-126.71,482.415-126.71L482.415-126.71z M482.415-101.007c14.492,0,25.712,11.399,25.712,25.89
-			c0,14.49-11.22,25.888-25.712,25.888s-26.06-11.398-26.06-25.888C456.355-89.609,467.922-101.007,482.415-101.007L482.415-101.007
-			z M571.224-15.679c14.491,0,25.881,11.567,25.881,26.059c0,14.489-11.39,25.887-25.881,25.887s-25.889-11.398-25.889-25.887
-			C545.335-4.111,556.733-15.679,571.224-15.679L571.224-15.679z M482.415,68.488c14.492,0,25.712,11.398,25.712,25.889
-			s-11.22,26.234-25.712,26.234s-26.06-11.743-26.06-26.234S467.922,68.488,482.415,68.488L482.415,68.488z"/>
+		<g>
+			<path fill="#FEFDFD" d="M258.012,218.789c0-170.668,0-341.332,0-512c170.666,0,341.334,0,512,0c0,170.668,0,341.332,0,512
+				C599.346,218.789,428.678,218.789,258.012,218.789z M512.561,202.848c116.902,7.755,241.603-95.5,241.264-239.585
+				C753.516-168.895,645.826-276.734,513.512-277c-130.168-0.258-235.209,105.504-240.693,231.227
+				C266.547,97.969,393.752,211.363,512.561,202.848z"/>
+			<path fill="#FE8457" d="M512.561,202.848C393.752,211.363,266.547,97.969,272.819-45.773
+				C278.303-171.496,383.344-277.258,513.512-277c132.314,0.266,240.004,108.105,240.312,240.262
+				C754.162,107.348,629.463,210.601,512.561,202.848z M513.084,179.195c118.35-0.06,215.713-96.728,216.01-214.465
+				c0.299-118.352-97.43-216.484-216.121-217.012c-118.348-0.531-215.607,97.516-215.361,217.102
+				C297.854,83.226,394.373,179.254,513.084,179.195z"/>
+			<path fill="#FEFBFA" d="M513.084,179.195c-118.711,0.059-215.23-95.969-215.472-214.375
+				c-0.246-119.586,97.014-217.633,215.361-217.102c118.691,0.527,216.42,98.66,216.121,217.012
+				C728.797,82.469,631.434,179.137,513.084,179.195z M679.316-34.676c0.008-91.238-73.709-165.242-164.875-165.516
+				c-90.488-0.266-164.787,74.457-164.781,165.727c0.008,91.379,73.822,165.289,164.994,165.203
+				C606.037,130.652,679.307,57.047,679.316-34.676z"/>
+			<path fill="#FE8052" d="M679.316-34.676c-0.01,91.723-73.278,165.328-164.662,165.414
+				c-91.171,0.086-164.985-73.824-164.994-165.203c-0.006-91.27,74.293-165.992,164.781-165.727
+				C605.607-199.918,679.324-125.914,679.316-34.676z M579.285-130.481c3.477-27.043,1.596-29.715-28.81-30.902
+				c-15.266-0.598-30.776-1.184-45.85,0.762c-52.73,6.809-81.887,53.555-57.16,93.621c8.527,13.816,24.396,23.871,38.482,33.297
+				c17.627,11.797,37.295,20.504,55.285,31.809c14.584,9.164,21.736,23.098,18.629,40.887
+				c-3.241,18.547-16.463,28.031-33.264,29.465c-16.865,1.438-34.375-0.008-51.092-3.02c-12.32-2.224-23.816-9-37.074-14.306
+				c1.986,14.688-6.887,30.441,13.652,36.605c31.398,9.418,62.85,11.84,94.243,1.723c32.319-10.414,49.373-39.352,43.03-71.715
+				c-4.274-21.82-18.85-36.449-36.998-47.355c-19.932-11.984-40.723-22.523-60.896-34.117c-15.785-9.07-24.557-22.508-21.643-41.32
+				c2.916-18.828,17.301-28.273,33.531-29.086C527.857-135.363,552.592-132.008,579.285-130.481z"/>
+			<path fill="#FEF9F8" d="M579.285-130.481c-26.693-1.527-51.429-4.883-75.933-3.652c-16.23,0.812-30.615,10.258-33.531,29.086
+				c-2.914,18.812,5.857,32.25,21.643,41.32c20.174,11.594,40.965,22.133,60.896,34.117c18.148,10.906,32.724,25.535,36.998,47.355
+				c6.343,32.363-10.711,61.301-43.03,71.715c-31.394,10.117-62.844,7.695-94.242-1.723c-20.539-6.164-11.666-21.918-13.652-36.605
+				c13.258,5.306,24.754,12.082,37.074,14.306c16.717,3.012,34.227,4.457,51.092,3.02c16.801-1.434,30.021-10.918,33.264-29.465
+				c3.107-17.789-4.045-31.723-18.629-40.887C523.245-13.2,503.577-21.907,485.95-33.704c-14.086-9.426-29.955-19.48-38.482-33.297
+				c-24.727-40.066,4.43-86.812,57.16-93.621c15.071-1.945,30.584-1.359,45.85-0.762
+				C580.881-160.195,582.762-157.523,579.285-130.481z"/>
+		</g>
 	</g>
 </g>
 </svg>

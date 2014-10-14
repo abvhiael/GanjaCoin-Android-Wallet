@@ -1,21 +1,21 @@
-digitalcoiny vždy so sebou vo svojom vrecku. Jednoduché a rýchle platby pomocou QR kódov. Pre obchodníkov ponúka spoľahlivé a okamžité prijímanie platieb. digitalcoin Wallet je prvá mobilná digitalcoin aplikácia a preukázateľne aj najbezpečnejšia.
+Solcoiny vždy so sebou vo svojom vrecku. Jednoduché a rýchle platby pomocou QR kódov. Pre obchodníkov ponúka spoľahlivé a okamžité prijímanie platieb. Solcoin Wallet je prvá mobilná Solcoin aplikácia a preukázateľne aj najbezpečnejšia.
 
 FUNKCIE:
 
 • Nie je potrebná žiadna registrácia ani žiadny účet.
-• Zobrazenie zostatku digitalcoinov v DGC alebo mDGC.
-• Prepočet hodnoty digitalcoinov do viacerých cudzích mien.
-• Posielanie a prijímanie digitalcoinov pomocou NFC, QR kódov alebo digitalcoin adries.
-• Adresár pre často používané digitalcoin adresy.
+• Zobrazenie zostatku Solcoinov v SOL alebo mSOL.
+• Prepočet hodnoty Solcoinov do viacerých cudzích mien.
+• Posielanie a prijímanie Solcoinov pomocou NFC, QR kódov alebo Solcoin adries.
+• Adresár pre často používané Solcoin adresy.
 • V offline režime je platba možná aj cez Bluetooth.
-• Notifikácie v stavovej lište pri prijatí digitalcoinov.
+• Notifikácie v stavovej lište pri prijatí Solcoinov.
 • Widget s celkovým zostatkom.
 
-Viac informácií o digitalcoine
-http://digitalcoin.co
+Viac informácií o Solcoine
+http://Solcoin.co
 
-Ak chcete prispieť do projektu digitalcoin Wallet nájdete ho na adrese
-https://github.com/HashEngineering/digitalcoin-wallet
+Ak chcete prispieť do projektu Solcoin Wallet nájdete ho na adrese
+https://github.com/MystPhysX/Solcoin-wallet
 
 Licencia: GPLv3
 Použitie len na vlastné riziko!

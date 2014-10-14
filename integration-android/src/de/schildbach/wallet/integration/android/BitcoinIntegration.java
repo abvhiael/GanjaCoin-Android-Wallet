@@ -229,7 +229,7 @@ public final class BitcoinIntegration
 
 	private static Intent makeBitcoinUriIntent(final String address, final Long amount)
 	{
-		final StringBuilder uri = new StringBuilder("digitalcoin:");
+		final StringBuilder uri = new StringBuilder("solcoin:");
 		if (address != null)
 			uri.append(address);
 		if (amount != null)
@@ -269,7 +269,7 @@ public final class BitcoinIntegration
 
 	private static void redirectToDownload(final Context context)
 	{
-		Toast.makeText(context, "No digitalcoin application found.\nPlease install digitalcoin Wallet.", Toast.LENGTH_LONG).show();
+		Toast.makeText(context, "No Solcoin application found.\nPlease install Solcoin Wallet.", Toast.LENGTH_LONG).show();
 
 		final Intent marketIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=hashengineering.digitalcoin.wallet"));
 		final Intent binaryIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/HashEngineering/digitalcoin-wallet/releases"));

@@ -29,7 +29,7 @@ import com.actionbarsherlock.view.MenuItem;
 import de.schildbach.wallet.data.PaymentIntent;
 import de.schildbach.wallet.ui.AbstractBindServiceActivity;
 import de.schildbach.wallet.ui.HelpDialogFragment;
-import hashengineering.digitalcoin.wallet.R;
+import mystphysx.solcoin.wallet.R;
 
 /**
  * @author Andreas Schildbach
