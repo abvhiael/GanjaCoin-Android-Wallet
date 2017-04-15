@@ -1,39 +1,39 @@
 <<<<<<< HEAD
-Hav altid dine Solcoins med dig i din lomme! Du betaler ved hurtigt at scanne en QR-kode. Som handlende kan du modtage betalinger pålideligt og øjeblikkeligt. Solcoin Wallet er den første mobile Solcoin-app, og muligvis også den mest sikre!
+Hav altid dine GanjaCoins med dig i din lomme! Du betaler ved hurtigt at scanne en QR-kode. Som handlende kan du modtage betalinger pålideligt og øjeblikkeligt. GanjaCoin Wallet er den første mobile GanjaCoin-app, og muligvis også den mest sikre!
 =======
-<b>Hav altid dine Solcoins med dig i din lomme!</b> Du betaler ved hurtigt at scanne en QR-kode. Som handlende kan du modtage betalinger pålideligt og øjeblikkeligt. Solcoin Wallet er den første mobile Solcoin-app, og muligvis også den mest sikre!
+<b>Hav altid dine GanjaCoins med dig i din lomme!</b> Du betaler ved hurtigt at scanne en QR-kode. Som handlende kan du modtage betalinger pålideligt og øjeblikkeligt. GanjaCoin Wallet er den første mobile GanjaCoin-app, og muligvis også den mest sikre!
 >>>>>>> upstream/master
 
 
 <b>FUNKTIONER</b>
 
 • Ingen registrering, webservice eller sky behøves! Tegnebogen er decentraliseret og peer-to-peer.
-• Visning af Solcoin-beløb i SOL, mSOL og µSOL.
+• Visning af GanjaCoin-beløb i 420G, m420G og µ420G.
 • Konvertering til og fra lokale valutaer.
-• Afsendelse og modtagelse af Solcoin via NFC, QR-koder eller Solcoin-URLer.
-• Adressebog til ofte brugte Solcoin-adresser.
+• Afsendelse og modtagelse af GanjaCoin via NFC, QR-koder eller GanjaCoin-URLer.
+• Adressebog til ofte brugte GanjaCoin-adresser.
 • Når du er offline, kan du stadig betale via Bluetooth.
 • Systemnotifikation for modtagne mønter.
 <<<<<<< HEAD
-• App-widget for Solcoin-saldo.
+• App-widget for GanjaCoin-saldo.
 
-Du kan finde mere om Solcoin på
-http://Solcoin.co
+Du kan finde mere om GanjaCoin på
+http://ganjacoinpro.com
 
-Hvis du vil bidrage til Solcoin Wallet, kan projektet findes på
-https://github.com/MystPhysX/Solcoin-wallet
+Hvis du vil bidrage til GanjaCoin Wallet, kan projektet findes på
+https://github.com/MystPhysX/GanjaCoin-wallet
 =======
 • Rydning af papirtegnebøger (fx de der bruges til kold opbevaring).
-• App-widget for Solcoin-saldo.
+• App-widget for GanjaCoin-saldo.
 
 
 <b>BIDRAG</b>
 
-Solcoin Wallet er <b>fri software</b> med <b>åben kildekode</b>. Licens: GPLv3
+GanjaCoin Wallet er <b>fri software</b> med <b>åben kildekode</b>. Licens: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Vores kildekode er tilgængelig på GitHub:
-https://github.com/MystPhysX/Solcoin-wallet
+https://github.com/abvhiael/GanjaCoin-Android-Wallet/
 >>>>>>> upstream/master
 
 Alle oversættelser håndteres via Transifex:
@@ -42,8 +42,8 @@ https://www.transifex.com/projects/p/bitcoin-wallet/
 
 <b>ANBEFALINGER</b>
 
-• Mange mobile tegnebøger baserer deres kode på Solcoin Wallet. Eksempler: blockchain.info, Hive og KnC.
-• Anbefalet mobil-tegnebog af http://Solcoin.co
+• Mange mobile tegnebøger baserer deres kode på GanjaCoin Wallet. Eksempler: blockchain.info, Hive og KnC.
+• Anbefalet mobil-tegnebog af http://ganjacoinpro.com
 • Anbefalet af BitPay.
 
 
