@@ -1,21 +1,21 @@
-Havu viajn Bitmonojn ĉiam kun vi, en via poŝo! Vi povas pagi per rapide skanado de QR-kodo. Kiel komercisto, vi povas ricevi pagojn fidinde kaj tuj. Solcoin Wallet estas unua movebla Bitmona aplikaĵo, kaj disputeble ankaŭ la plej sekura!
+Havu viajn Ganjamonojn ĉiam kun vi, en via poŝo! Vi povas pagi per rapide skanado de QR-kodo. Kiel komercisto, vi povas ricevi pagojn fidinde kaj tuj. GanjaCoin Wallet estas unua movebla Ganjamona aplikaĵo, kaj disputeble ankaŭ la plej sekura!
 
 TRAJTOJ:
 
 • Neniu registriĝo, ttt servo aŭ nubo bezonataj! Ĉi monujo estas malcentralizita kaj pajro al pajro.
-• Montro de Bitmona kvanto en SOL kaj mSOL.
+• Montro de Ganjamona kvanto en 420G kaj m420G.
 • Konvertiĝo al kaj de la naciaj valutoj.
-• Sendado kaj ricevo de Bitmono tra NFC, QR-kodoj aŭ Bitmono URLoj.
-• Adreslibro por regule uzataj Bitmonadresoj.
+• Sendado kaj ricevo de Ganjamono tra NFC, QR-kodoj aŭ Bitmono URLoj.
+• Adreslibro por regule uzataj Ganjamonadresoj.
 • Kiam vi estas senkonekta, vi ankoraŭ povas pagi per Bluetooth.
 • Sistema sciigo por ricevitaj moneroj.
-• Aplikaĵa fenestraĵo por Bitmona saldo.
+• Aplikaĵa fenestraĵo por Ganjamona saldo.
 
-Vi povas trovi pli pri Bitmono ĉe
-http://Solcoin.co
+Vi povas trovi pli pri Ganjamono ĉe
+http://ganjacoinpro.com
 
-Se vi volas kontribui al Solcoin Wallet, la projekto lokas ĉe
-https://github.com/MystPhysX/Solcoin-wallet
+Se vi volas kontribui al GanjaCoin Wallet, la projekto lokas ĉe
+https://github.com/abvhiael/GanjaCoin-Android-Wallet
 
 Licenco: GPLv3
 Uzu je via propra risko!
