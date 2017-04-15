@@ -1,39 +1,39 @@
 <<<<<<< HEAD
-Hab deine Solcoins immer dabei, in deiner Hosentasche! Du zahlst, indem du rasch einen QR-Code scannst. Als Händler empfängst du Zahlungen zuverlässig und sofort. Solcoin Wallet ist die erste mobile Solcoin app, und wohl auch die sicherste!
+Hab deine GanjaCoins immer dabei, in deiner Hosentasche! Du zahlst, indem du rasch einen QR-Code scannst. Als Händler empfängst du Zahlungen zuverlässig und sofort. GanjaCoin Wallet ist die erste mobile GanjaCoin app, und wohl auch die sicherste!
 =======
-<b>Hab deine Solcoins immer dabei, in deiner Hosentasche!</b> Du zahlst, indem du rasch einen QR-Code scannst. Als Händler empfängst du Zahlungen zuverlässig und sofort. Solcoin Wallet ist die erste mobile Solcoin app, und wohl auch die sicherste!
+<b>Hab deine GanjaCoins immer dabei, in deiner Hosentasche!</b> Du zahlst, indem du rasch einen QR-Code scannst. Als Händler empfängst du Zahlungen zuverlässig und sofort. GanjaCoin Wallet ist die erste mobile GanjaCoin app, und wohl auch die sicherste!
 >>>>>>> upstream/master
 
 
 <b>FEATURES</b>
 
 • Keine Registrierung, Web-Dienst oder Cloud nötig! Diese Wallet ist dezentral und Peer to Peer.
-• Anzeige von Solcoin-Werten in SOL, mSOL und µSOL.
+• Anzeige von GanjaCoin-Werten in 420G, m420G und µ420G.
 • Umrechnung von und zu den nationalen Währungen.
-• Senden und Empfangen von Solcoin via NFC, QR-Codes oder Solcoin URLs.
+• Senden und Empfangen von GanjaCoin via NFC, QR-Codes oder GanjaCoin URLs.
 • Adressbuch für regelmäßig genutzte Empfänger.
 • Wenn du offline bist, kannst du trotzdem über Bluetooth zahlen.
 • System-Benachrichtigung für den Empfang von Zahlungen.
 <<<<<<< HEAD
-• App-Widget zeigt Solcoin-Guthaben an.
+• App-Widget zeigt GanjaCoin-Guthaben an.
 
-Weitere Informationen zu Solcoin findest Du unter
-http://Solcoin.co
+Weitere Informationen zu GanjaCoin findest Du unter
+http://ganjacoinpro.com
 
-Wenn Du zu Solcoin Wallet beitragen willst, das Projekt befindet sich auf
+Wenn Du zu GanjaCoin Wallet beitragen willst, das Projekt befindet sich auf
 https://github.com/MystPhysX/Solcoin-wallet
 =======
 • Entleeren von Paper-Wallets (die z.B. für Cold-Storage genutzt wurden).
-• App-Widget zeigt Solcoin-Guthaben an.
+• App-Widget zeigt GanjaCoin-Guthaben an.
 
 
 <b>MITWIRKEN</b>
 
-Solcoin Wallet ist <b>Open Source</b> und <b>Freie Software</b>. Lizenz: GPLv3
+GanjaCoin Wallet ist <b>Open Source</b> und <b>Freie Software</b>. Lizenz: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.de.html
 
 Unser Source Code ist auf GitHub verfügbar:
-https://github.com/MystPhysX/Solcoin-wallet
+https://github.com/abvhiael/GanjaCoin-Android-Wallet
 >>>>>>> upstream/master
 
 Alle Übersetzungen werden auf Transifex organisiert:
@@ -42,8 +42,8 @@ https://www.transifex.com/projects/p/bitcoin-wallet/
 
 <b>EMPFEHLUNGEN</b>
 
-• Viele mobile Wallets basieren auf Solcoin Wallet. Beispiele: blockchain.info, Hive and KnC.
-• Von http://Solcoin.co empfohlenes mobiles Wallet.
+• Viele mobile Wallets basieren auf GanjaCoin Wallet. Beispiele: blockchain.info, Hive and KnC.
+• Von http://ganjacoinpro.com empfohlenes mobiles Wallet.
 • Von BitPay empfohlen.
 
 
