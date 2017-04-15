@@ -35,12 +35,12 @@ public final class BitcoinIntegration
 	private static final String MIMETYPE_PAYMENTREQUEST = "application/digitalcoin-paymentrequest"; // BIP 71
 
 	/**
-	 * Request any amount of Bitcoins (probably a donation) from user, without feedback from the app.
+	 * Request any amount of GanjaCoins (probably a donation) from user, without feedback from the app.
 	 * 
 	 * @param context
 	 *            Android context
 	 * @param address
-	 *            Bitcoin address
+	 *            GanjaCoin address
 	 */
 	public static void request(final Context context, final String address)
 	{
@@ -50,14 +50,14 @@ public final class BitcoinIntegration
 	}
 
 	/**
-	 * Request specific amount of Bitcoins from user, without feedback from the app.
+	 * Request specific amount of GanjaCoins from user, without feedback from the app.
 	 * 
 	 * @param context
 	 *            Android context
 	 * @param address
-	 *            Bitcoin address
+	 *            GanjaCoin address
 	 * @param amount
-	 *            Bitcoin amount in satoshis
+	 *            GanjaCoin amount in satoshis
 	 */
 	public static void request(final Context context, final String address, final long amount)
 	{
@@ -82,12 +82,12 @@ public final class BitcoinIntegration
 	}
 
 	/**
-	 * Request any amount of Bitcoins (probably a donation) from user, with feedback from the app. Result intent can be
+	 * Request any amount of GanjaCoin (probably a donation) from user, with feedback from the app. Result intent can be
 	 * received by overriding {@link android.app.Activity#onActivityResult()}. Result indicates either
 	 * {@link Activity#RESULT_OK} or {@link Activity#RESULT_CANCELED}. In the success case, use
 	 * {@link #transactionHashFromResult(Intent)} to read the transaction hash from the intent.
 	 * 
-	 * Warning: A success indication is no guarantee! To be on the safe side, you must drive your own Bitcoin
+	 * Warning: A success indication is no guarantee! To be on the safe side, you must drive your own GanjaCoin
 	 * infrastructure and validate the transaction.
 	 * 
 	 * @param activity
@@ -95,7 +95,7 @@ public final class BitcoinIntegration
 	 * @param requestCode
 	 *            Code identifying the call when {@link android.app.Activity#onActivityResult()} is called back
 	 * @param address
-	 *            Bitcoin address
+	 *            GanjaCoin address
 	 */
 	public static void requestForResult(final Activity activity, final int requestCode, final String address)
 	{
@@ -105,12 +105,12 @@ public final class BitcoinIntegration
 	}
 
 	/**
-	 * Request specific amount of Bitcoins from user, with feedback from the app. Result intent can be received by
+	 * Request specific amount of GanjaCoin from user, with feedback from the app. Result intent can be received by
 	 * overriding {@link android.app.Activity#onActivityResult()}. Result indicates either {@link Activity#RESULT_OK} or
 	 * {@link Activity#RESULT_CANCELED}. In the success case, use {@link #transactionHashFromResult(Intent)} to read the
 	 * transaction hash from the intent.
 	 * 
-	 * Warning: A success indication is no guarantee! To be on the safe side, you must drive your own Bitcoin
+	 * Warning: A success indication is no guarantee! To be on the safe side, you must drive your own GanjaCoin
 	 * infrastructure and validate the transaction.
 	 * 
 	 * @param activity
@@ -118,7 +118,7 @@ public final class BitcoinIntegration
 	 * @param requestCode
 	 *            Code identifying the call when {@link android.app.Activity#onActivityResult()} is called back
 	 * @param address
-	 *            Bitcoin address
+	 *            GanjaCoin address
 	 */
 	public static void requestForResult(final Activity activity, final int requestCode, final String address, final long amount)
 	{
@@ -133,7 +133,7 @@ public final class BitcoinIntegration
 	 * {@link Activity#RESULT_CANCELED}. In the success case, use {@link #transactionHashFromResult(Intent)} to read the
 	 * transaction hash from the intent.
 	 * 
-	 * Warning: A success indication is no guarantee! To be on the safe side, you must drive your own Bitcoin
+	 * Warning: A success indication is no guarantee! To be on the safe side, you must drive your own GanjaCoin
 	 * infrastructure and validate the transaction.
 	 * 
 	 * @param activity
@@ -165,7 +165,7 @@ public final class BitcoinIntegration
 	}
 
 	/**
-	 * Put BIP70 payment message into result intent. Meant for usage by Bitcoin wallet applications.
+	 * Put BIP70 payment message into result intent. Meant for usage by GanjaCoin wallet applications.
 	 * 
 	 * @param result
 	 *            result intent
@@ -178,10 +178,10 @@ public final class BitcoinIntegration
 	}
 
 	/**
-	 * Get BIP70 payment message from result intent. Meant for usage by applications initiating a Bitcoin payment.
+	 * Get BIP70 payment message from result intent. Meant for usage by applications initiating a GanjaCoin payment.
 	 * 
 	 * You can use the transactions contained in the payment to validate the payment. For this, you need your own
-	 * Bitcoin infrastructure though. There is no guarantee that the payment will ever confirm.
+	 * GanjaCoin infrastructure though. There is no guarantee that the payment will ever confirm.
 	 * 
 	 * @param result
 	 *            result intent
@@ -195,7 +195,7 @@ public final class BitcoinIntegration
 	}
 
 	/**
-	 * Put transaction hash into result intent. Meant for usage by Bitcoin wallet applications.
+	 * Put transaction hash into result intent. Meant for usage by GanjaCoin wallet applications.
 	 * 
 	 * @param result
 	 *            result intent
@@ -208,11 +208,11 @@ public final class BitcoinIntegration
 	}
 
 	/**
-	 * Get transaction hash from result intent. Meant for usage by applications initiating a Bitcoin payment.
+	 * Get transaction hash from result intent. Meant for usage by applications initiating a GanjaCoin payment.
 	 * 
-	 * You can use this hash to request the transaction from the Bitcoin network, in order to validate. For this, you
-	 * need your own Bitcoin infrastructure though. There is no guarantee that the transaction has ever been broadcasted
-	 * to the Bitcoin network.
+	 * You can use this hash to request the transaction from the GanjaCoin network, in order to validate. For this, you
+	 * need your own GanjaCoin infrastructure though. There is no guarantee that the transaction has ever been broadcasted
+	 * to the GanjaCoin network.
 	 * 
 	 * @param result
 	 *            result intent
@@ -229,7 +229,7 @@ public final class BitcoinIntegration
 
 	private static Intent makeBitcoinUriIntent(final String address, final Long amount)
 	{
-		final StringBuilder uri = new StringBuilder("solcoin:");
+		final StringBuilder uri = new StringBuilder("GanjaCoin:");
 		if (address != null)
 			uri.append(address);
 		if (amount != null)
@@ -269,10 +269,10 @@ public final class BitcoinIntegration
 
 	private static void redirectToDownload(final Context context)
 	{
-		Toast.makeText(context, "No Solcoin application found.\nPlease install Solcoin Wallet.", Toast.LENGTH_LONG).show();
+		Toast.makeText(context, "No GanjaCoin application found.\nPlease install GanjaCoin Wallet.", Toast.LENGTH_LONG).show();
 
-		final Intent marketIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=hashengineering.digitalcoin.wallet"));
-		final Intent binaryIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/HashEngineering/digitalcoin-wallet/releases"));
+		final Intent marketIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=soilcoin.digitalcoin.wallet"));
+		final Intent binaryIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/abvhiael/GanjaCoin-Android-Wallet/releases"));
 
 
 		final PackageManager pm = context.getPackageManager();
