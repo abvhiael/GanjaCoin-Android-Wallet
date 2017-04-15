@@ -14,8 +14,8 @@
 يمكنك الحصول على معلومات أكثر عن البيتكوين في الموقع التالي
 http://Solcoin.co
 
-إذا أردت المساهمة في مشروع محفظة البيتكوين Solcoin Wallet، قم بزيارة
-https://github.com/MystPhysX/Solcoin-wallet
+إذا أردت المساهمة في مشروع محفظة البيتكوين GanjaCoin Wallet، قم بزيارة
+https://github.com/abvhiael/GanjaCoin-Android-Wallet
 
 الرخصة رقم GPLv3
 استخدم البرنامج على مسؤوليتك الخاصة!
