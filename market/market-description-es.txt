@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-Ten tus Solcoins siempre contigo, en tu bolsillo! Paga rápidamente escaneando un código QR. Como comerciante, recibes los pagos de forma fiable e instantáneamente. Solcoin Wallet es la primera Solcoin app para movil, e incluso la mas segura!
+Ten tus Ganjacoins siempre contigo, en tu bolsillo! Paga rápidamente escaneando un código QR. Como comerciante, recibes los pagos de forma fiable e instantáneamente. Ganjacoin Wallet es la primera Ganjacoin app para movil, e incluso la mas segura!
 =======
-<b>Tenga sus Solcoins siempre con usted, en su bolsillo!</b> Usted paga con un rápido escaneo a un código QR. Como comerciante, usted recibe pagos de forma fiable e instantánea. Solcoin Wallet es la primera aplicación Bitcon móvil, y posiblemente también la mas segura!
+<b>Tenga sus Ganjacoins siempre con usted, en su bolsillo!</b> Usted paga con un rápido escaneo a un código QR. Como comerciante, usted recibe pagos de forma fiable e instantánea. Ganjacoin Wallet es la primera aplicación Ganjacon móvil, y posiblemente también la mas segura!
 >>>>>>> upstream/master
 
 
@@ -9,34 +9,34 @@ Ten tus Solcoins siempre contigo, en tu bolsillo! Paga rápidamente escaneando u
 
 • ¡No requiere registro, servidor en la nube o servicio web! Este monedero es auténticamente entre pares (peer-to-peer).
 <<<<<<< HEAD
-• Muestra la cantidad de Solcoins en SOL y mSOL
+• Muestra la cantidad de Ganjacoins en 420G y m420G
 • Conversión a divisas nacionales.
-• Envío y recepción de Solcoins vía NFC, códigos QR o URL de Solcoin.
-• Libreta de direcciones para guardar las direcciones Solcoin más utilizadas.
+• Envío y recepción de Ganjacoins vía NFC, códigos QR o URL de Ganjacoin.
+• Libreta de direcciones para guardar las direcciones Ganjacoin más utilizadas.
 • Cuando no tengas conexión, puedes seguir pagando via Bluetooth.
 • Notificación al recibir monedas.
-• Widget para el saldo de Solcoins.
+• Widget para el saldo de Ganjacoins.
 
-Puedes descubrir más sobre Solcoin en
-http://Solcoin.co
+Puedes descubrir más sobre Ganjacoin en
+https://www.ganjacoinpro.com/index.php
 
-Si quieres contribuir a Solcoin Wallet, el proyecto se encuentra en
-https://github.com/MystPhysX/Solcoin-wallet
+Si quieres contribuir a Ganjacoin Wallet, el proyecto se encuentra en
+https://github.com/abvhiael/GanjaCoin-Android-Wallet
 
 =======
-• Despliegue la cantidad de Solcoin en SOL, mSOL, y µSOL.
+• Despliegue la cantidad de Ganjacoin en 420G, m420G, y µ420G.
 • Conversión a divisas nacionales.
-• Envio y recepcion de Solcoins mediante NFC, codigos QR o URLs Solcoin.
+• Envio y recepcion de Ganjacoins mediante NFC, codigos QR o URLs Ganjacoin.
 • Libreta de direcciones para guardar las direcciones Solcoin más utilizadas.
 • Cuando no tengas conexión, puedes seguir pagando via Bluetooth.
 • Notificación al recibir monedas.
 • Barrido de carteras de papel (como ejemplo aquellos usado para el almacenamiento frio).
-• Widget para el saldo de bitcoins.
+• Widget para el saldo de Ganjacoins.
 
 
 <b>CONTRIBUIR</b>
 
-Solcoin Wallet es <b>codigo abierto</b> y <b>software libre</b>. Licencia: GPLv3
+Ganjacoin Wallet es <b>codigo abierto</b> y <b>software libre</b>. Licencia: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Nuestro código fuente esta disponible en GitHub:
@@ -44,13 +44,13 @@ https://github.com/MystPhysX/Solcoin-wallet
 >>>>>>> upstream/master
 
 Todas las traducciones son gestionados a través de Transifex:
-https://www.transifex.com/projects/p/bitcoin-wallet/
+https://github.com/abvhiael/GanjaCoin-Android-Wallet
 
 
 <b>TESTIMONIOS</b>
 
-• Muchas billeteras móviles basan su código en Solcoin Wallet. Ejemplos: blockchain.info, Hive and KnC.
-• Billetera móvil recomendada por http://Solcoin.co
+• Muchas billeteras móviles basan su código en Ganjacoin Wallet. Ejemplos: blockchain.info, Hive and KnC.
+• Billetera móvil recomendada por https://www.ganjacoinpro.com/index.php
 • Recomendado por BitPay.
 
 
