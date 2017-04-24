@@ -9,7 +9,7 @@ storage:
 	Testnet: /data/data/de.schildbach.wallet_test/files/wallet-protobuf-testnet (MODE_WORLD_READABLE | MODE_WORLD_WRITEABLE)
 
 The wallet file format is not compatible to wallet.dat (Satoshi client). Rather, it uses a custom protobuf format
-which should be compatible between clients using solcoinj.
+which should be compatible between clients using ganjacoinj.
 
 Certain actions cause automatic rolling backups of your wallet to app-private storage:
 
@@ -19,9 +19,9 @@ Certain actions cause automatic rolling backups of your wallet to app-private st
 
 Your wallet can be manually backed up to and restored from external storage:
 
-	Mainnet: /sdcard/Download/solcoin-wallet-backup-<yyyy-MM-dd>
+	Mainnet: /sdcard/Download/ganjacoin-wallet-backup-<yyyy-MM-dd>
 
-	Testnet: /sdcard/Download/solcoin-wallet-backup-testnet-<yyyy-MM-dd>
+	Testnet: /sdcard/Download/ganjacoin-wallet-backup-testnet-<yyyy-MM-dd>
 
 The manual backup files are encrypted using your chosen backup password. You can use OpenSSL to decrypt:
 
@@ -69,14 +69,14 @@ and unpack it to your workspace directory. Switch to that Android SDK directory,
 
 to download the necessary API level.
 
-Finally, you can build solcoin Wallet and sign it with your development key. Again in your workspace,
+Finally, you can build the GanjaCoin Wallet and sign it with your development key. Again in your workspace,
 use
 
 	# first time only
-	git clone -b master https://github.com/MystPhysX/solcoin-wallet.git solcoin-wallet
+	git clone -b master https://github.com/abvhiael/GanjaCoin-Android-Wallet/.git ganjacoin-wallet
 
 	# each time
-	cd solcoin-wallet
+	cd ganjacoin-wallet
 	git pull
 	mvn clean install -Dandroid.sdk.path=<path to your android sdk>
 
@@ -100,7 +100,7 @@ wallet file is protected against access from non-root users. In the code reposit
 separate 'prod' branch that gets rebased against master with each released version.
 
 	# each time
-	cd solcoin-wallet
+	cd ganjacoin-wallet
 	git fetch origin
 	git checkout origin/prod
 	mvn clean install -Prelease -Dandroid.sdk.path=<path to your android sdk>
@@ -112,8 +112,8 @@ Make sure you've got Eclipse Kepler with ADT 22 installed.
 
 Use Git to check out the project and an Android library dependency to your workspace:
 
-	# clone solcoin Wallet project
-	git clone -b master https://github.com/MystPhysX/solcoin-wallet.git solcoin-wallet
+	# clone GanjaCoin Wallet project
+	git clone -b master https://github.com/abvhiael/GanjaCoin-Android-Wallet.git solcoin-wallet
 
 	# clone ActionBarSherlock library project
 	git clone https://github.com/JakeWharton/ActionBarSherlock.git action-bar-sherlock
@@ -122,7 +122,7 @@ Use Git to check out the project and an Android library dependency to your works
 
 Use the maven-eclipse-plugin to create Eclipse project files:
 
-	cd solcoin-wallet
+	cd ganjacoin-wallet
 	mvn clean install eclipse:eclipse
 
 Optional: In the generated .classpath, remove the org.eclipse.jdt.launching.JRE_CONTAINER
@@ -138,7 +138,7 @@ TRANSLATIONS
 
 The source language is English. Translations for all languages except German happen on Transifex:
 
-	https://www.transifex.com/projects/p/solcoin-wallet/
+	https://www.transifex.com/projects/p/ganjacoin-wallet/
 
 The english resources are pushed to Transifex. Changes are pulled and committed to the git
 repository from time to time. It can be done by manually downloading the files, but using the "tx"
@@ -165,7 +165,7 @@ corrected manually.
 
 NFC (Near field communication)
 
-solcoin Wallet supports reading solcoin requests via NFC, either from a passive NFC tag or from
+GanjaCoin Wallet supports reading ganjacoin requests via NFC, either from a passive NFC tag or from
 another NFC capable Android device that is requesting coins.
 
 For this to work, just enable NFC in your phone and hold your phone to the tag or device (with
@@ -179,26 +179,26 @@ Instructions for preparing an NFC tag with your address:
 
 - Some tags have less than 50 bytes capacity, those won't work. 1 KB tags recommended.
 
-- The tag needs to contain a solcoin URI. You can construct one with the "Request coins" dialog,
+- The tag needs to contain a ganjacoin URI. You can construct one with the "Request coins" dialog,
   then share with messaging or email. You can also construct the URI manually. Example for Mainnet:
-  solcoin:1G2Y2jP5YFZ5RGk2PXaeWwbeA5y1ZtFhoL
+  ganjacoin:1G2Y2jP5YFZ5RGk2PXaeWwbeA5y1ZtFhoL
 
 - The type of the message needs to be URI or URL (not Text).
 
 - If you put your tag at a public place, don't forget to enable write protect. Otherwise, someone
-  could overwrite the tag with his own solcoin address.
+  could overwrite the tag with his own ganjacoin address.
 
 
-solcoinJ
+ganjacoinJ
 
-solcoin Wallet uses solcoinj for solcoin specific logic:
+ganjacoin Wallet uses ganjacoinj for ganjacoin specific logic:
 
 	https://bitcoinj.github.io/
 
 
 EXCHANGE RATES
 
-solcoin Wallet reads this feed from "BitcoinAverage" for getting exchange rates:
+GanjaCoin Wallet reads this feed from "BitcoinAverage" for getting exchange rates:
 
 	https://api.bitcoinaverage.com/custom/abw
 
