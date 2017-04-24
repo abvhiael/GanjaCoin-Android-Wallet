@@ -1,4 +1,4 @@
-Welcome to _digitalcoin Wallet_, a standalone digitalcoin payment app for your Android device!
+This is the repository for the Android OS GanjaCoin (420G) Wallet, a standalone GanjaCoin payment app for your Android device!
 
 This project contains several sub-projects:
 
@@ -16,3 +16,6 @@ This project contains several sub-projects:
 You can build all sub-projects at once using Maven:
 
 `mvn clean install`
+
+This project is forked off of MystPhysX's Solcoin Wallet for Android.
+https://github.com/MystPhysX/Solcoin-Android-Wallet
