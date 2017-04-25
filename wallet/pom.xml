@@ -7,7 +7,7 @@
 	<artifactId>wallet</artifactId>
 	<packaging>apk</packaging>
 	<version>0.1.0</version>
-	<name>Solcoin Wallet</name>
+	<name>GanjaCoin Wallet</name>
 
 
 	<parent>
