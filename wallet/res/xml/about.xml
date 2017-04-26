@@ -11,7 +11,7 @@
 			android:title="@string/about_copyright_title" />
         <Preference
                 android:summary="Version v0.8.7.4-g and above"
-                android:title="Solcoin Compatibility" />
+                android:title="GanjaCoin Compatibility" />
 
 		<Preference
 			android:key="about_license"
