@@ -36,7 +36,7 @@
 				android:layout_marginLeft="12dp"
 				android:singleLine="true"
 
-				android:text="SOL"
+				android:text="420G"
 				android:textColor="#bbb"
 				android:textSize="24sp"
 				tools:ignore="HardcodedText" />
