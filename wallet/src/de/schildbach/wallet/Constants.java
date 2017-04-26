@@ -27,7 +27,7 @@ import com.google.bitcoin.core.NetworkParameters;
 import com.google.bitcoin.params.MainNetParams;
 import com.google.bitcoin.params.TestNet3Params;
 import com.google.bitcoin.core.CoinDefinition;
-import mystphysx.solcoin.wallet.R;
+import abvhiael.ganjacoin.wallet.R;
 
 /**
  * @author Andreas Schildbach
@@ -125,7 +125,7 @@ public final class Constants
 	public static final String DONATION_ADDRESS = CoinDefinition.DONATION_ADDRESS;;
 
 	/** Recipient e-mail address for reports. */
-	public static final String REPORT_EMAIL = "mystphysx@gmail.com";;
+	public static final String REPORT_EMAIL = "officalganjacoin@gmail.com";;
 
 	/** Subject line for manually reported issues. */
 	public static final String REPORT_SUBJECT_ISSUE = "Reported issue";
@@ -154,23 +154,23 @@ public final class Constants
 
     public static final String FORKED_FROM_SOURCE = "based on bitcoin-wallet 3.55\n";
     public static final String FORKED_FROM_SOURCE_BITCOINJ = "based on bitcoinj 0.12\n";
-	public static final String SOURCE_URL = "https://github.com/MystPhysX/" + CoinDefinition.coinName.toLowerCase() + "-wallet";
-	public static final String BINARY_URL = "https://github.com/MystPhysX/"+ CoinDefinition.coinName.toLowerCase() +"-wallet/releases";
-	public static final String CREDITS_BITCOINJ_URL = "https://github.com/MystPhysX/" + CoinDefinition.coinName.toLowerCase() + "j";
+	public static final String SOURCE_URL = "https://github.com/legends420/" + CoinDefinition.coinName.toLowerCase() + "-wallet";
+	public static final String BINARY_URL = "https://github.com/legends420/"+ CoinDefinition.coinName.toLowerCase() +"-wallet/releases";
+	public static final String CREDITS_BITCOINJ_URL = "https://github.com/legends420/" + CoinDefinition.coinName.toLowerCase() + "j";
 	public static final String CREDITS_ZXING_URL = "http://code.google.com/p/zxing/";
-    public static final String CREDITS_WEBSITE_URL = "http://www.solcoin.net";
-    public static final String CREDITS_FORUM_URL = "";
+    public static final String CREDITS_WEBSITE_URL = "http://ganjacoinpro.com/index.php";
+    public static final String CREDITS_FORUM_URL = "http://forum.ganjacoinpro.com";
 
-	public static final String CREDITS_ICON_URL = "https://bitcointalk.org/index.php?action=profile;u=185981";
+	public static final String CREDITS_ICON_URL = "https://bitcointalk.org/index.php?action=profile;u=952115";
 
-	public static final String AUTHOR_TWITTER_URL = "https://twitter.com/#!/MystPhysX";
+	public static final String AUTHOR_TWITTER_URL = "https://twitter.com/ganjacoin";
 	public static final String AUTHOR_GOOGLEPLUS_URL = "";
 
 	public static final String COMMUNITY_GOOGLEPLUS_URL = "";
 
-	public static final String MARKET_APP_URL = "";
-	public static final String WEBMARKET_APP_URL = "";
-	public static final String MARKET_PUBLISHER_URL = "";
+	public static final String MARKET_APP_URL = "market://details?id=%s";
+	public static final String WEBMARKET_APP_URL = "https://play.google.com/store/apps/details?id=%s";
+	public static final String MARKET_PUBLISHER_URL = "market://search?q=pub:\"GanjaCoin Android Wallet\"";
 
 	public static final int HTTP_TIMEOUT_MS = 15 * (int) DateUtils.SECOND_IN_MILLIS;
 
