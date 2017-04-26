@@ -12,10 +12,10 @@
 	<string name="blockchain_state_progress_stalled">Synchronization stalled</string>
 	<string name="blockchain_state_progress_problem_storage">Synchronizing: Storage problem</string>
 	<string name="blockchain_state_progress_problem_network">Synchronizing: Network problem</string>
-	<string name="wallet_address_fragment_your">Your Solcoin Address:</string>
-	<string name="wallet_address_fragment_clipboard_msg">Solcoin address copied to clipboard</string>
-	<string name="wallet_addresses_fragment_add_dialog_title">Add Solcoin address</string>
-	<string name="wallet_addresses_fragment_add_dialog_message">Solcoin addresses cannot be deleted. Do you want to add a new address to your wallet?</string>
+	<string name="wallet_address_fragment_your">Your GanjaCoin Address:</string>
+	<string name="wallet_address_fragment_clipboard_msg">GanjaCoin address copied to clipboard</string>
+	<string name="wallet_addresses_fragment_add_dialog_title">Add GanjaCoin address</string>
+	<string name="wallet_addresses_fragment_add_dialog_message">GanjaCoin addresses cannot be deleted. Do you want to add a new address to your wallet?</string>
 	<string name="wallet_balance_fragment_replaying">Balance is unavailable during replay.</string>
 	<string name="exchange_rates_activity_title">Exchange Rates</string>
 	<string name="exchange_rates_fragment_empty_text">Could not load exchange rates.</string>
@@ -30,9 +30,9 @@
 	<string name="wallet_transactions_fragment_tab_all">Both</string>
 	<string name="wallet_transactions_fragment_tab_sent">Sent</string>
 
-	<string name="wallet_transactions_fragment_empty_text_received">No Solcoins received so far.</string>
-	<string name="wallet_transactions_fragment_empty_text_sent">No Solcoins sent so far.</string>
-	<string name="wallet_transactions_fragment_empty_text_howto">How to get Solcoins?\n\nTrade for traditional money,\nsell goods or services or\nearn by working.</string>
+	<string name="wallet_transactions_fragment_empty_text_received">No GanjaCoins received so far.</string>
+	<string name="wallet_transactions_fragment_empty_text_sent">No GanjaCoins sent so far.</string>
+	<string name="wallet_transactions_fragment_empty_text_howto">How to get GanjaCoins?\n\nTrade for traditional money,\nsell goods or services or\nearn by working.</string>
 	<string name="wallet_transactions_row_warning_backup">Congratulations, you received your first payment! Have you already &lt;u&gt;backed up your wallet&lt;/u&gt;, to protect against loss?</string>
 	<string name="wallet_transactions_fragment_coinbase">mined</string>
 	<string name="wallet_transactions_fragment_internal">internal</string>
@@ -45,9 +45,9 @@
 
 	<string name="wallet_options_safety">Safety notes</string>
 	<string name="wallet_options_donate">Tip / Donate</string>
-	<string name="wallet_donate_address_label">Donation for Solcoin Wallet</string>
+	<string name="wallet_donate_address_label">Donation for GanjaCoin Wallet</string>
 	<string name="wallet_low_storage_dialog_title">Internal Device Storage Space Low!</string>
-	<string name="wallet_low_storage_dialog_msg">Solcoin Wallet uses internal storage for remembering transactions and blocks. If it runs out of space, it will stop working and your Solcoins will be at risk!\n\nDo you want to open the Application Manager to uninstall unneeded apps?</string>
+	<string name="wallet_low_storage_dialog_msg">GanjaCoin Wallet uses internal storage for remembering transactions and blocks. If it runs out of space, it will stop working and your Solcoins will be at risk!\n\nDo you want to open the Application Manager to uninstall unneeded apps?</string>
 	<string name="wallet_low_storage_dialog_button_apps">Manage Apps</string>
 	<string name="wallet_timeskew_dialog_title">Check your time settings!</string>
 	<string name="wallet_timeskew_dialog_msg">Your device time is off by %d minutes. You probably cannot send or receive Solcoins due to this problem.\n\nYou should check and correct your time and timezone settings.</string>
@@ -59,8 +59,8 @@
 	<string name="wallet_version_dialog_button_binary">Download</string>
 
 	<string name="wallet_old_sdk_dialog_title">Android version is out of date</string>
-	<string name="wallet_old_sdk_dialog_message">Chances are that one of the next releases of Solcoin Wallet will not support your device any more. In some cases, it can get difficult to spend coins on this device.\n\nUnless you know what you are doing, it is recommended to move out your coins soon.</string>
-	<string name="send_coins_activity_title">Send Solcoins</string>
+	<string name="wallet_old_sdk_dialog_message">Chances are that one of the next releases of GanjaCoin Wallet will not support your device any more. In some cases, it can get difficult to spend coins on this device.\n\nUnless you know what you are doing, it is recommended to move out your coins soon.</string>
+	<string name="send_coins_activity_title">Send GanjaCoins</string>
 	<string name="send_coins_fragment_request_payment_request_progress">Fetching signature from %s…</string>
 	<string name="send_coins_fragment_request_payment_request_failed_title">Fetching signature failed</string>
 	<string name="send_coins_fragment_request_payment_request_wrong_signature">Wrong signature!</string>
@@ -70,7 +70,7 @@
 
 	<string name="send_coins_fragment_receiving_address_label">Pay to</string>
 	<string name="send_coins_fragment_receiving_address_hint">type address or name</string>
-	<string name="send_coins_fragment_receiving_address_error">Invalid Solcoin Address!</string>
+	<string name="send_coins_fragment_receiving_address_error">Invalid GanjaCoin Address!</string>
 	<string name="send_coins_fragment_receiving_address_error_cross_network">Cannot use %s address with this wallet!</string>
 	<string name="send_coins_fragment_receiving_address_error_cross_network_unknown">Cannot use address of unknown network with this wallet!</string>
 
@@ -105,21 +105,21 @@
 	<string name="sweep_wallet_fragment_insufficient_money_title">Not enough coins</string>
 	<string name="sweep_wallet_fragment_insufficient_money_msg">The amount of coins in the wallet is too small for sweeping.</string>
 	<string name="sweep_wallet_options_reload">Reload balance</string>
-	<string name="request_coins_activity_title">Request Solcoins</string>
+	<string name="request_coins_activity_title">Request GanjaCoins</string>
 	<string name="request_coins_fragment_amount_label">Requested amount (optional)</string>
 	<string name="request_coins_fragment_accept_bluetooth_payment">Accept payment via Bluetooth for more reliable processing</string>
 	<string name="request_coins_fragment_initiate_request_qr">Have this code scanned by the sender.</string>
 	<string name="request_coins_fragment_initiate_request_nfc">Or tap an NFC enabled device.</string>
 
-	<string name="request_coins_clipboard_msg">Solcoin request copied to clipboard</string>
-	<string name="request_coins_share_dialog_title">Share request for Solcoins…</string>
+	<string name="request_coins_clipboard_msg">GanjaCoin request copied to clipboard</string>
+	<string name="request_coins_share_dialog_title">Share request for GanjaCoins…</string>
 
 	<string name="request_coins_options_local_app_title">Request from local app</string>
 	<string name="address_book_activity_title">Address Book</string>
 	<string name="address_book_list_receiving_title">Your addresses</string>
 	<string name="address_book_list_sending_title">Sending addresses</string>
 	<string name="address_book_empty_text">No entries in address book</string>
-	<string name="address_book_context_send_title">Send Solcoins to address</string>
+	<string name="address_book_context_send_title">Send GanjaCoins to address</string>
 	<string name="address_book_context_edit_title">Edit address</string>
 	<string name="address_book_context_remove_title">Remove address</string>
 	<string name="address_book_context_show_qr_title">Show QR code</string>
@@ -188,20 +188,20 @@
 	<string name="export_keys_dialog_success"><![CDATA[<p>Your wallet has been backed up to <tt>%s</tt></p><p>If your device has a removable SD card, your backup <i>should</i> be on that card. Remove it and keep it at a safe place. If the card is <i>not</i> removable, you need to archive your backup to some other place than your device.</p><p><b>If the only place your backup exists is on your device, you run the risk of losing both at the same time!</b></p><p>In any case, make sure you remember your backup password. Do you want to archive your wallet now?</p>]]></string>
 	<string name="export_keys_dialog_failure">Your wallet could not be backed up:\n%s</string>
 	<string name="export_keys_dialog_button_archive">Archive</string>
-	<string name="export_keys_dialog_mail_subject">Solcoin Wallet private key backup</string>
-	<string name="export_keys_dialog_mail_text">The attached encrypted file contains Solcoin private keys and should be kept safe at all times. Don\'t forget the encryption password!</string>
+	<string name="export_keys_dialog_mail_subject">GanjaCoin Wallet private key backup</string>
+	<string name="export_keys_dialog_mail_text">The attached encrypted file contains GanjaCoin private keys and should be kept safe at all times. Don\'t forget the encryption password!</string>
 	<string name="export_keys_dialog_mail_intent_chooser">Archive keys using…</string>
 	<string name="export_keys_dialog_mail_intent_failed">Archiving keys failed.</string>
 	<string name="import_export_keys_dialog_password">password</string>
 	<string name="import_export_keys_dialog_show">Show password</string>
 	<string name="import_export_keys_dialog_failure_title">Error</string>
-	<string name="import_keys_intent_filter_action">Solcoin key restore</string>
+	<string name="import_keys_intent_filter_action">GanjaCoin key restore</string>
 	<string name="scan_camera_problem_dialog_title">Sorry</string>
 	<string name="scan_camera_problem_dialog_message">The camera has a problem. You probably need to restart the device.</string>
 	<string name="input_parser_io_error">Cannot read data:\n%s</string>
 	<string name="input_parser_cannot_classify">Cannot classify input:\n%s</string>
-	<string name="input_parser_invalid_Solcoin_uri">Invalid Solcoin URI:\n%s</string>
-	<string name="input_parser_invalid_address">Got invalid Solcoin address!\n(Mixing up Mainnet/Testnet?)</string>
+	<string name="input_parser_invalid_Solcoin_uri">Invalid GanjaCoin URI:\n%s</string>
+	<string name="input_parser_invalid_address">Got invalid GanjaCoin address!\n(Mixing up Mainnet/Testnet?)</string>
 	<string name="input_parser_unverifyable_paymentrequest">Cannot verify payment request:\n%s</string>
 
 	<string name="input_parser_invalid_paymentrequest">Invalid payment request:\n%s</string>
@@ -245,12 +245,12 @@
 	<string name="about_license_title">License</string>
 
     <string name="about_source_title">Source Code</string>
-	<string name="about_credits_bitcoinj_title">This app is using Solcoinj %s</string>
+	<string name="about_credits_bitcoinj_title">This app is using GanjaCoinj %s</string>
 	<string name="about_credits_zxing_title">"This app is using 'zxing'"</string>
 
 	<string name="about_credits_icon_title">"This app is using an icon by 'tjb0607'"</string>
-    <string name="about_credits_website_title">"Solcoin Website"</string>
-    <string name="about_credits_forum_title">"Solcoin Forum"</string>
+    <string name="about_credits_website_title">"GanjaCoin Website"</string>
+    <string name="about_credits_forum_title">"GanjaCoin Forum"</string>
 
 	<string name="about_community_googleplus_title">Google+ Community</string>
 	<string name="about_community_googleplus_summary">Discussions about the app</string>
