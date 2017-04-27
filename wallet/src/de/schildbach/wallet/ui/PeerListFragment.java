@@ -57,7 +57,7 @@ import de.schildbach.wallet.service.BlockchainService;
 import de.schildbach.wallet.service.BlockchainServiceImpl;
 
 import de.schildbach.wallet.util.WholeStringBuilder;
-import mystphysx.solcoin.wallet.R;
+import abvhiael.ganjacoin.wallet.R;
 
 /**
  * @author Andreas Schildbach
