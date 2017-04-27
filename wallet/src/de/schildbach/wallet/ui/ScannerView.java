@@ -34,7 +34,7 @@ import android.util.AttributeSet;
 import android.view.View;
 
 import com.google.zxing.ResultPoint;
-import mystphysx.solcoin.wallet.R;
+import abvhiael.ganjacoin.wallet.R;
 
 /**
  * @author Andreas Schildbach
