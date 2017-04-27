@@ -73,7 +73,7 @@ import de.schildbach.wallet.util.Bluetooth;
 import de.schildbach.wallet.util.Nfc;
 import de.schildbach.wallet.util.PaymentProtocol;
 import de.schildbach.wallet.util.Qr;
-import mystphysx.solcoin.wallet.R;
+import abvhiael.ganjacoin.wallet.R;
 
 /**
  * @author Andreas Schildbach
