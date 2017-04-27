@@ -28,7 +28,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.TextView;
-import mystphysx.solcoin.wallet.R;
+import abvhiael.ganjacoin.wallet.R;
 
 /**
  * @author Andreas Schildbach
