@@ -52,7 +52,7 @@ import de.schildbach.wallet.util.PaymentProtocol;
 import de.schildbach.wallet.util.Qr;
 
 import com.google.bitcoin.core.CoinDefinition;
-import mystphysx.solcoin.wallet.R;
+import abvhiael.ganjacoin.wallet.R;
 
 
 /**
